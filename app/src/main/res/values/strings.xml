@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mv Info</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="poster">Poster</string>
+    <string name="title">Title</string>
+    <string name="release">Release</string>
+    <string name="favorite">Favorite</string>
+    <string name="score">Score</string>
+    <string name="language">Language:</string>
+    <string name="popularity">Popularity:</string>
+    <string name="overview">Overview</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
