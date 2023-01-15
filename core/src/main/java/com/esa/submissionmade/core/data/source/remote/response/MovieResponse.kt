@@ -24,6 +24,9 @@ data class MovieResponse(
     @field:SerializedName("backdrop_path")
     val backdropPath: String,
 
+    @field:SerializedName("runtime")
+    val runtime: Int,
+
     @field:SerializedName("title")
     val title: String,
 

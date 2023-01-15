@@ -31,6 +31,9 @@ data class MovieEntity(
     @ColumnInfo(name = "backdropPath")
     var backdropPath: String,
 
+    @ColumnInfo(name = "runtime")
+    var runtime: Int,
+
     @ColumnInfo(name = "title")
     var title: String,
 

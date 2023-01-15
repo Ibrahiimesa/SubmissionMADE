@@ -39,6 +39,7 @@ class DetailActivity : AppCompatActivity() {
             tvPopularity.text = detailMovie.popularity.toString()
             tvOverview.text = detailMovie.overview
             tvRelease.text = detailMovie.releaseDate
+            tvDuration.text = detailMovie.runtime.toString()
             tvScore.text = detailMovie.voteAverage.toString()
 
             Glide.with(this@DetailActivity)

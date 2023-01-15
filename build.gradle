@@ -27,6 +27,10 @@ buildscript {
         koin_version = '2.2.2'
         lottie_version = "3.6.0"
         spinKit = '1.4.0'
+
+        sqlcipher_version = "4.4.0"
+        sqlite_version = "2.1.0"
+        leak_canary_version = "2.6"
     }
 
     repositories {

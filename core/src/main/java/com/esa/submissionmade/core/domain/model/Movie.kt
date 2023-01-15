@@ -12,6 +12,7 @@ data class Movie(
     var voteAverage: Double,
     var id: Int,
     var backdropPath: String,
+    var runtime: Int,
     var title: String,
     var voteCount: Int,
     var posterPath: String,
